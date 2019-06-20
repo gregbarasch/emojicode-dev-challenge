@@ -1,4 +1,3 @@
-
 💭 This declares the start of the main code block
 🏁 🍇
 
@@ -7,19 +6,19 @@
   🔚💭
   🍇➡️🍨🐚🔢🍆
 
-	  💭 Create an empty list
+    💭 Create an empty list
     🆕🍨🐚🔢🍆🐸❗️ ➡️ 🖍🆕 list
 
     💭 Here we create a pseudo-random number generator
   	🆕🎰🆕❗️➡️ randomNumberGenerator
 
-	  💭 List size will be a constant 1k.. 
+    💭 List size will be a constant 1k..
   	🔂 i 🆕⏩⏭ 0 1000 1❗️🍇
   
 	  	💭 Construct a random number within 1-10k and append it to the list in O(1)
 	  	🔢 randomNumberGenerator 1 10000 ❗️➡️ rand
 	  	🐻 list rand ❗️
-	  🍉
+    🍉
 
   	↩️ list
   🍉 ➡️ generateList
@@ -33,23 +32,23 @@
   	💭 Create an empty list
   	🆕🍨🐚🔢🍆🐸❗️ ➡️ 🖍🆕 outputList
 
-	  💭 For each element in the input list, if the element is odd (element%2 == 1), add it to the output list 
+    💭 For each element in the input list, if the element is odd (element%2 == 1), add it to the output list
   	🔂 element inputList 🍇
   		↪️ element 🚮 2 🙌 1 🍇
   			🐻 outputList element❗️
   		🍉
   	🍉
 
-  	↩️ outputList
+    ↩️ outputList
   🍉 ➡️ removeEven
 
 
   💭 Generate the odds only list
   ⁉️removeEven ⁉️generateList❗️❗️➡️ oddsList
-  
+
   💭 Print the results
   🔂 element oddsList 🍇
-  	😀 🔡 element 10❗️❗️
+    😀 🔡 element 10❗️❗️
   🍉
 
 🍉 💭 This is the end of the main code block
