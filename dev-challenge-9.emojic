@@ -30,7 +30,7 @@
   🍇inputList🍨🐚🔢🍆 ➡️ 🍨🐚🔢🍆
 
     💭 Create an empty list
-  	🆕🍨🐚🔢🍆🐸❗️ ➡️ 🖍🆕 outputList
+    🆕🍨🐚🔢🍆🐸❗️ ➡️ 🖍🆕 outputList
 
     💭 For each element in the input list, if the element is odd (element%2 == 1), add it to the output list
     🔂 element inputList 🍇
