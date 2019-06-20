@@ -1,36 +1,36 @@
 🏁 🍇
 
   🍇➡️🍨🐚🔢🍆
-  	
-    🆕🍨🐚🔢🍆🐸❗️ ➡️ 🖍🆕 list
-  	
-    🆕🎰🆕❗️➡️ randomNumberGenerator
-  	
-    🔂 i 🆕⏩⏭ 0 1000 1❗️🍇
-	  	🔢 randomNumberGenerator 1 10000 ❗️➡️ rand
-	  	🐻 list rand ❗️
+
+  	🆕🍨🐚🔢🍆🐸❗️ ➡️ 🖍🆕 list
+
+  	🆕🎰🆕❗️➡️ randomNumberGenerator
+
+  	🔂 i 🆕⏩⏭ 0 1000 1❗️🍇
+  	    🔢 randomNumberGenerator 1 10000 ❗️➡️ rand
+  	    🐻 list rand ❗️
     🍉
 
-  	↩️ list
+    ↩️ list
   🍉 ➡️ generateList
 
 
   🍇inputList🍨🐚🔢🍆 ➡️ 🍨🐚🔢🍆
-  	
+
   	🆕🍨🐚🔢🍆🐸❗️ ➡️ 🖍🆕 outputList
 
-  	🔂 element inputList 🍇
-  		↪️ element 🚮 2 🙌 1 🍇
-  		    🐻 outputList element❗️
-  		🍉
-  	🍉
+    🔂 element inputList 🍇
+        ↪️ element 🚮 2 🙌 1 🍇
+            🐻 outputList element❗️
+        🍉
+    🍉
 
-  	↩️ outputList
+    ↩️ outputList
   🍉 ➡️ removeEven
 
 
   ⁉️removeEven ⁉️generateList❗️❗️➡️ oddsList
   🔂 element oddsList 🍇
-  	😀 🔡 element 10❗️❗️
+    😀 🔡 element 10❗️❗️
   🍉
 🍉
